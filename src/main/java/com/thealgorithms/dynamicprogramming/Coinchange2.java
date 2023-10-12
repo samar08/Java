@@ -1,4 +1,4 @@
-public class Coinchange2 {
+public class CoinChange2 {
     public int change(int amount, int[] coins) {
         int n=coins.length;
         int i,j;
